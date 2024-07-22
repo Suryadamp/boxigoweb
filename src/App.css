@@ -1,5 +1,8 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
 .App {
-  text-align: center;
+  /* text-align: center; */
+  display: flex;
 }
 
 .App-logo {
@@ -27,6 +30,14 @@
 .App-link {
   color: #61dafb;
 }
+
+.content {
+  width: 80%;
+}
+
+
+
+
 
 @keyframes App-logo-spin {
   from {
